@@ -61,5 +61,5 @@ This repository contains 30 JavaScript projects that cover a variety of use case
 ## 💻 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/30-javascript-projects.git
-   cd 30-javascript-projects
+   git clone https://github.com/Vammshi2/30-JS-projects/.git
+   cd 30-JS-projects
